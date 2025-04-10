@@ -4,8 +4,7 @@
 
 Sistema desenvolvido para automatizar e organizar os processos internos de escritórios contábeis.]
 
-
-
+![Logo de contabilidade](./logo.png)
 
 
 ## Instalação
